@@ -4,7 +4,7 @@
 #
 Name     : R-tmvnsim
 Version  : 1.0.2
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/tmvnsim_1.0-2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/tmvnsim_1.0-2.tar.gz
 Summary  : Truncated Multivariate Normal Simulation
